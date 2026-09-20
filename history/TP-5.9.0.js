@@ -19,7 +19,6 @@
 // @run-at          document-start
 // @grant           GM_setValue
 // @storageName     GBNPA_Storage
-// @license         AGPL-3.0-or-later
 // @updateURL       https://github.com/ucxn/Bro-Stat/raw/refs/heads/main/TP-L1.user.js
 // @downloadURL     https://github.com/ucxn/Bro-Stat/raw/refs/heads/main/TP-L1.user.js
 
